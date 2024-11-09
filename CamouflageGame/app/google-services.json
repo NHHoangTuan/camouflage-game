@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "19068733290",
+    "firebase_url": "https://camouflagegame-3d07c-default-rtdb.firebaseio.com",
+    "project_id": "camouflagegame-3d07c",
+    "storage_bucket": "camouflagegame-3d07c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19068733290:android:c32018d7f083dbae1d8713",
+        "android_client_info": {
+          "package_name": "com.example.camouflagegame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsSCCkoRJihwM-lDrD6bMymzQVrQ8uPj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
